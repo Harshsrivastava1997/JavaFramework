@@ -1,8 +1,0 @@
-10:46:45.582 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
-10:46:45.602 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-10:46:45.629 [main] INFO  testCases.TC003Login_DDT.verifylogin(TC003Login_DDT.java:16)oggger - **********Starting TC003_Login_DDT****************
-10:46:58.077 [main] INFO  testCases.TC003Login_DDT.verifylogin(TC003Login_DDT.java:16)oggger - **********Starting TC003_Login_DDT****************
-10:47:00.836 [main] INFO  testCases.TC003Login_DDT.verifylogin(TC003Login_DDT.java:16)oggger - **********Starting TC003_Login_DDT****************
-10:47:01.155 [main] INFO  testCases.TC003Login_DDT.verifylogin(TC003Login_DDT.java:16)oggger - **********Starting TC003_Login_DDT****************
-10:47:01.178 [main] INFO  testCases.TC003Login_DDT.verifylogin(TC003Login_DDT.java:16)oggger - **********Starting TC003_Login_DDT****************
-10:47:01.191 [main] INFO  testCases.TC003Login_DDT.verifylogin(TC003Login_DDT.java:16)oggger - **********Starting TC003_Login_DDT****************
