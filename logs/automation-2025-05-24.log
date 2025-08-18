@@ -1,0 +1,42 @@
+15:48:08.590 [TestNG-test-chrome-test-4] INFO  testCases.TC001.editAccounts(TC001.java:77)oggger - Editing the information
+15:48:08.580 [TestNG-test-chrome-test-5] INFO  testCases.TC001.RedirectionToEditAccount(TC001.java:98)oggger - Checking Edit operation was success or not
+15:48:18.739 [TestNG-test-chrome-test-3] ERROR testCases.TC001.redirectionToEditAccount(TC001.java:68)oggger - Test Failed
+15:48:18.742 [TestNG-test-chrome-test-3] DEBUG testCases.TC001.redirectionToEditAccount(TC001.java:69)oggger - Debug logs
+15:48:38.757 [TestNG-test-chrome-test-4] ERROR testCases.TC001.editAccounts(TC001.java:88)oggger - Test Failed
+15:48:38.758 [TestNG-test-chrome-test-4] DEBUG testCases.TC001.editAccounts(TC001.java:89)oggger - Debug logs
+15:48:49.031 [TestNG-test-chrome-test-2] ERROR testCases.TC001.registerPageTestMethod(TC001.java:54)oggger - Test Failed
+15:48:49.033 [TestNG-test-chrome-test-2] DEBUG testCases.TC001.registerPageTestMethod(TC001.java:55)oggger - Debug logs
+15:49:01.583 [TestNG-test-edge-test-4] INFO  testCases.TC001.editAccounts(TC001.java:77)oggger - Editing the information
+15:49:01.583 [TestNG-test-edge-test-3] INFO  testCases.TC001.redirectionToEditAccount(TC001.java:63)oggger - Redirecting to EditAccount Page
+15:49:01.581 [TestNG-test-edge-test-1] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
+15:49:01.599 [TestNG-test-edge-test-2] INFO  testCases.TC001.registerPageTestMethod(TC001.java:39)oggger - Registration Page testcase started
+15:49:01.603 [TestNG-test-edge-test-5] INFO  testCases.TC001.RedirectionToEditAccount(TC001.java:98)oggger - Checking Edit operation was success or not
+15:49:11.771 [TestNG-test-edge-test-3] ERROR testCases.TC001.redirectionToEditAccount(TC001.java:68)oggger - Test Failed
+15:49:11.772 [TestNG-test-edge-test-3] DEBUG testCases.TC001.redirectionToEditAccount(TC001.java:69)oggger - Debug logs
+15:49:21.788 [TestNG-test-edge-test-4] ERROR testCases.TC001.editAccounts(TC001.java:88)oggger - Test Failed
+15:49:21.788 [TestNG-test-edge-test-4] DEBUG testCases.TC001.editAccounts(TC001.java:89)oggger - Debug logs
+15:49:41.796 [TestNG-test-edge-test-2] ERROR testCases.TC001.registerPageTestMethod(TC001.java:54)oggger - Test Failed
+15:49:41.796 [TestNG-test-edge-test-2] DEBUG testCases.TC001.registerPageTestMethod(TC001.java:55)oggger - Debug logs
+15:49:53.622 [TestNG-test-firefox-test-1] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
+15:49:53.626 [TestNG-test-firefox-test-5] INFO  testCases.TC001.RedirectionToEditAccount(TC001.java:98)oggger - Checking Edit operation was success or not
+15:49:53.626 [TestNG-test-firefox-test-2] INFO  testCases.TC001.registerPageTestMethod(TC001.java:39)oggger - Registration Page testcase started
+15:49:53.628 [TestNG-test-firefox-test-4] INFO  testCases.TC001.editAccounts(TC001.java:77)oggger - Editing the information
+15:49:53.626 [TestNG-test-firefox-test-3] INFO  testCases.TC001.redirectionToEditAccount(TC001.java:63)oggger - Redirecting to EditAccount Page
+15:50:03.709 [TestNG-test-firefox-test-4] ERROR testCases.TC001.editAccounts(TC001.java:88)oggger - Test Failed
+15:50:03.710 [TestNG-test-firefox-test-4] DEBUG testCases.TC001.editAccounts(TC001.java:89)oggger - Debug logs
+15:50:24.004 [TestNG-test-firefox-test-3] ERROR testCases.TC001.redirectionToEditAccount(TC001.java:68)oggger - Test Failed
+15:50:24.004 [TestNG-test-firefox-test-3] DEBUG testCases.TC001.redirectionToEditAccount(TC001.java:69)oggger - Debug logs
+15:50:34.007 [TestNG-test-firefox-test-2] ERROR testCases.TC001.registerPageTestMethod(TC001.java:54)oggger - Test Failed
+15:50:34.008 [TestNG-test-firefox-test-2] DEBUG testCases.TC001.registerPageTestMethod(TC001.java:55)oggger - Debug logs
+15:50:58.107 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\IdeaProjects\JavaFramework\crossbrowser.xml"
+15:50:58.709 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Sunny\IdeaProjects\JavaFramework\crossbrowser.xml
+
+15:51:12.333 [TestNG-tests-2] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
+15:51:13.683 [TestNG-tests-1] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
+15:51:13.808 [TestNG-tests-2] INFO  testCases.TC001.registerPageTestMethod(TC001.java:39)oggger - Registration Page testcase started
+15:51:16.122 [TestNG-tests-1] INFO  testCases.TC001.registerPageTestMethod(TC001.java:39)oggger - Registration Page testcase started
+15:51:16.743 [TestNG-tests-3] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
+15:51:16.788 [TestNG-tests-2] INFO  testCases.TC001.registerPageTestMethod(TC001.java:51)oggger - Matching title of the page
+15:51:16.865 [TestNG-tests-2] INFO  testCases.TC001.redirectionToEditAccount(TC001.java:63)oggger - Redirecting to EditAccount Page
+15:51:17.586 [TestNG-tests-2] INFO  testCases.TC001.editAccounts(TC001.java:77)oggger - Editing the information
