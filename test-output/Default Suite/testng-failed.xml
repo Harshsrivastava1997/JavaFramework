@@ -3,26 +3,12 @@
 <suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="JavaFramework(failed)">
     <classes>
-      <class name="testCases.TC003Login_DDT">
-        <methods>
-          <include name="verifylogin"/>
-          <include name="setup"/>
-          <include name="teardown"/>
-        </methods>
-      </class> <!-- testCases.TC003Login_DDT -->
-      <class name="testCases.TC002LoginTestCase">
-        <methods>
-          <include name="LoginPage"/>
-          <include name="setup"/>
-          <include name="teardown"/>
-        </methods>
-      </class> <!-- testCases.TC002LoginTestCase -->
       <class name="testCases.TC001">
         <methods>
           <include name="redirectionToEditAccount"/>
           <include name="setup"/>
-          <include name="editAccounts"/>
           <include name="registerPageTestMethod"/>
+          <include name="editAccounts"/>
           <include name="teardown"/>
           <include name="RedirectionToEditAccount"/>
           <include name="homePageTestMethod"/>
