@@ -5,13 +5,13 @@
   <parameter name="browser" value="chrome"/>
   <test thread-count="5" name="Run-TC001(failed)">
     <classes>
-      <class name="testCases.TC001">
+      <class name="testCases.TC002LoginTestCase">
         <methods>
+          <include name="LoginPage"/>
           <include name="setup"/>
           <include name="teardown"/>
-          <include name="RedirectionToEditAccount"/>
         </methods>
-      </class> <!-- testCases.TC001 -->
+      </class> <!-- testCases.TC002LoginTestCase -->
     </classes>
   </test> <!-- Run-TC001(failed) -->
 </suite> <!-- Failed suite [SingleClassSuite] -->

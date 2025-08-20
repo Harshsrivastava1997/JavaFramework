@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-20T11:04:09 IST" name="SingleClassSuite" finished-at="2025-08-20T11:04:17 IST" duration-ms="8397">
+  <suite started-at="2025-08-20T11:23:56 IST" name="SingleClassSuite" finished-at="2025-08-20T11:24:07 IST" duration-ms="10174">
     <groups>
       <group name="Master">
-        <method signature="TC001.homePageTestMethod()[pri:1, instance:testCases.TC001@7c214cc0]" name="homePageTestMethod" class="testCases.TC001"/>
-        <method signature="TC001.registerPageTestMethod()[pri:2, instance:testCases.TC001@7c214cc0]" name="registerPageTestMethod" class="testCases.TC001"/>
-        <method signature="TC001.redirectionToEditAccount()[pri:3, instance:testCases.TC001@7c214cc0]" name="redirectionToEditAccount" class="testCases.TC001"/>
-        <method signature="TC001.editAccounts()[pri:4, instance:testCases.TC001@7c214cc0]" name="editAccounts" class="testCases.TC001"/>
-        <method signature="TC001.RedirectionToEditAccount()[pri:5, instance:testCases.TC001@7c214cc0]" name="RedirectionToEditAccount" class="testCases.TC001"/>
+        <method signature="TC002LoginTestCase.LoginPage()[pri:0, instance:testCases.TC002LoginTestCase@82ea68c]" name="LoginPage" class="testCases.TC002LoginTestCase"/>
+        <method signature="TC001.homePageTestMethod()[pri:1, instance:testCases.TC001@4ddbbdf8]" name="homePageTestMethod" class="testCases.TC001"/>
+        <method signature="TC001.registerPageTestMethod()[pri:2, instance:testCases.TC001@4ddbbdf8]" name="registerPageTestMethod" class="testCases.TC001"/>
       </group> <!-- Master -->
       <group name="Sanity">
-        <method signature="TC001.homePageTestMethod()[pri:1, instance:testCases.TC001@7c214cc0]" name="homePageTestMethod" class="testCases.TC001"/>
-        <method signature="TC001.registerPageTestMethod()[pri:2, instance:testCases.TC001@7c214cc0]" name="registerPageTestMethod" class="testCases.TC001"/>
-        <method signature="TC001.redirectionToEditAccount()[pri:3, instance:testCases.TC001@7c214cc0]" name="redirectionToEditAccount" class="testCases.TC001"/>
-        <method signature="TC001.editAccounts()[pri:4, instance:testCases.TC001@7c214cc0]" name="editAccounts" class="testCases.TC001"/>
-        <method signature="TC001.RedirectionToEditAccount()[pri:5, instance:testCases.TC001@7c214cc0]" name="RedirectionToEditAccount" class="testCases.TC001"/>
+        <method signature="TC001.homePageTestMethod()[pri:1, instance:testCases.TC001@4ddbbdf8]" name="homePageTestMethod" class="testCases.TC001"/>
+        <method signature="TC001.registerPageTestMethod()[pri:2, instance:testCases.TC001@4ddbbdf8]" name="registerPageTestMethod" class="testCases.TC001"/>
       </group> <!-- Sanity -->
       <group name="Regression">
-        <method signature="TC001.homePageTestMethod()[pri:1, instance:testCases.TC001@7c214cc0]" name="homePageTestMethod" class="testCases.TC001"/>
-        <method signature="TC001.registerPageTestMethod()[pri:2, instance:testCases.TC001@7c214cc0]" name="registerPageTestMethod" class="testCases.TC001"/>
-        <method signature="TC001.redirectionToEditAccount()[pri:3, instance:testCases.TC001@7c214cc0]" name="redirectionToEditAccount" class="testCases.TC001"/>
-        <method signature="TC001.editAccounts()[pri:4, instance:testCases.TC001@7c214cc0]" name="editAccounts" class="testCases.TC001"/>
-        <method signature="TC001.RedirectionToEditAccount()[pri:5, instance:testCases.TC001@7c214cc0]" name="RedirectionToEditAccount" class="testCases.TC001"/>
+        <method signature="TC001.homePageTestMethod()[pri:1, instance:testCases.TC001@4ddbbdf8]" name="homePageTestMethod" class="testCases.TC001"/>
+        <method signature="TC001.registerPageTestMethod()[pri:2, instance:testCases.TC001@4ddbbdf8]" name="registerPageTestMethod" class="testCases.TC001"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2025-08-20T11:04:09 IST" name="Run-TC001" finished-at="2025-08-20T11:04:17 IST" duration-ms="8397">
+    <test started-at="2025-08-20T11:23:56 IST" name="Run-TC001" finished-at="2025-08-20T11:24:07 IST" duration-ms="10174">
       <class name="testCases.TC001">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001@7c214cc0]" started-at="2025-08-20T11:04:09 IST" name="setup" finished-at="2025-08-20T11:04:12 IST" duration-ms="3468" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001@4ddbbdf8]" started-at="2025-08-20T11:23:56 IST" name="setup" finished-at="2025-08-20T11:23:59 IST" duration-ms="3030" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -44,71 +36,45 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="homePageTestMethod()[pri:1, instance:testCases.TC001@7c214cc0]" started-at="2025-08-20T11:04:13 IST" name="homePageTestMethod" finished-at="2025-08-20T11:04:14 IST" duration-ms="1197" status="PASS">
+        <test-method signature="homePageTestMethod()[pri:1, instance:testCases.TC001@4ddbbdf8]" started-at="2025-08-20T11:23:59 IST" name="homePageTestMethod" finished-at="2025-08-20T11:24:00 IST" duration-ms="794" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePageTestMethod -->
-        <test-method signature="registerPageTestMethod()[pri:2, instance:testCases.TC001@7c214cc0]" started-at="2025-08-20T11:04:14 IST" name="registerPageTestMethod" finished-at="2025-08-20T11:04:15 IST" duration-ms="1654" status="PASS">
+        <test-method signature="registerPageTestMethod()[pri:2, instance:testCases.TC001@4ddbbdf8]" started-at="2025-08-20T11:24:00 IST" name="registerPageTestMethod" finished-at="2025-08-20T11:24:02 IST" duration-ms="1546" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registerPageTestMethod -->
-        <test-method signature="redirectionToEditAccount()[pri:3, instance:testCases.TC001@7c214cc0]" started-at="2025-08-20T11:04:15 IST" name="redirectionToEditAccount" finished-at="2025-08-20T11:04:16 IST" duration-ms="362" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- redirectionToEditAccount -->
-        <test-method signature="editAccounts()[pri:4, instance:testCases.TC001@7c214cc0]" started-at="2025-08-20T11:04:16 IST" name="editAccounts" finished-at="2025-08-20T11:04:17 IST" duration-ms="984" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- editAccounts -->
-        <test-method signature="RedirectionToEditAccount()[pri:5, instance:testCases.TC001@7c214cc0]" started-at="2025-08-20T11:04:17 IST" name="RedirectionToEditAccount" finished-at="2025-08-20T11:04:17 IST" duration-ms="389" status="FAIL">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[First name was not updated correctly! expected [Harry] but found [OQIYG]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: First name was not updated correctly! expected [Harry] but found [OQIYG]
-at org.testng.Assert.fail(Assert.java:111)
-at org.testng.Assert.failNotEquals(Assert.java:1590)
-at org.testng.Assert.assertEqualsImpl(Assert.java:150)
-at org.testng.Assert.assertEquals(Assert.java:132)
-at org.testng.Assert.assertEquals(Assert.java:656)
-at testCases.TC001.RedirectionToEditAccount(TC001.java:120)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
-at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- RedirectionToEditAccount -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC001@7c214cc0]" started-at="2025-08-20T11:04:17 IST" name="teardown" finished-at="2025-08-20T11:04:17 IST" duration-ms="251" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC001@4ddbbdf8]" started-at="2025-08-20T11:24:02 IST" name="teardown" finished-at="2025-08-20T11:24:02 IST" duration-ms="195" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- testCases.TC001 -->
+      <class name="testCases.TC002LoginTestCase">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002LoginTestCase@82ea68c]" started-at="2025-08-20T11:24:02 IST" name="setup" finished-at="2025-08-20T11:24:04 IST" duration-ms="2194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginPage()[pri:0, instance:testCases.TC002LoginTestCase@82ea68c]" started-at="2025-08-20T11:24:04 IST" name="LoginPage" finished-at="2025-08-20T11:24:06 IST" duration-ms="2148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC002LoginTestCase@82ea68c]" started-at="2025-08-20T11:24:06 IST" name="teardown" finished-at="2025-08-20T11:24:07 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC002LoginTestCase -->
     </test> <!-- Run-TC001 -->
   </suite> <!-- SingleClassSuite -->
 </testng-results>

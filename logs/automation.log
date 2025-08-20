@@ -1,58 +1,33 @@
-10:39:28.322 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
-10:39:28.594 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\Sunny\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-10:49:11.517 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml"
-10:49:11.812 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+11:14:42.998 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml"
+11:14:43.311 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
   C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml
 
-10:49:15.449 [main] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
-10:49:16.351 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:39)oggger - Registration Page testcase started
-10:49:17.889 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:51)oggger - Matching title of the page
-10:49:17.927 [main] INFO  testCases.TC001.redirectionToEditAccount(TC001.java:63)oggger - Redirecting to EditAccount Page
-10:49:18.281 [main] INFO  testCases.TC001.editAccounts(TC001.java:77)oggger - Editing the information
-10:49:18.834 [main] INFO  testCases.TC001.RedirectionToEditAccount(TC001.java:98)oggger - Checking Edit operation was success or not
-10:53:34.950 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml"
-10:53:35.232 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+11:14:46.158 [main] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
+11:14:46.950 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:39)oggger - Registration Page testcase started
+11:14:48.329 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:51)oggger - Matching title of the page
+11:14:50.901 [main] INFO  testCases.TC002LoginTestCase.LoginPage(TC002LoginTestCase.java:14)oggger - ***************Test case Started************
+11:22:05.485 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml"
+11:22:05.837 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
   C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml
 
-10:53:38.258 [main] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
-10:53:38.989 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:39)oggger - Registration Page testcase started
-10:53:40.459 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:51)oggger - Matching title of the page
-10:53:40.482 [main] INFO  testCases.TC001.redirectionToEditAccount(TC001.java:63)oggger - Redirecting to EditAccount Page
-10:53:40.818 [main] INFO  testCases.TC001.editAccounts(TC001.java:77)oggger - Editing the information
-10:53:41.355 [main] INFO  testCases.TC001.RedirectionToEditAccount(TC001.java:98)oggger - Checking Edit operation was success or not
-10:59:24.923 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml"
-10:59:25.267 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+11:22:09.016 [main] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
+11:22:09.885 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:39)oggger - Registration Page testcase started
+11:22:11.348 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:51)oggger - Matching title of the page
+11:22:14.014 [main] INFO  testCases.TC002LoginTestCase.LoginPage(TC002LoginTestCase.java:14)oggger - ***************Test case Started************
+11:23:19.788 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml"
+11:23:20.064 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
   C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml
 
-10:59:29.172 [main] INFO  testCases.TC001.homePageTestMethod(TC001.java:28)oggger - Test Case Started
-10:59:29.951 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:44)oggger - Registration Page testcase started
-10:59:31.738 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:56)oggger - Matching title of the page
-10:59:31.769 [main] INFO  testCases.TC001.redirectionToEditAccount(TC001.java:68)oggger - Redirecting to EditAccount Page
-10:59:32.148 [main] INFO  testCases.TC001.editAccounts(TC001.java:82)oggger - Editing the information
-10:59:32.633 [main] INFO  testCases.TC001.RedirectionToEditAccount(TC001.java:103)oggger - Checking Edit operation was success or not
-11:04:01.054 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml"
-11:04:01.391 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\Sunny\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-11:04:03.544 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml"
-11:04:04.114 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+11:23:23.535 [main] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
+11:23:24.343 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:39)oggger - Registration Page testcase started
+11:23:25.700 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:51)oggger - Matching title of the page
+11:23:28.029 [main] INFO  testCases.TC002LoginTestCase.LoginPage(TC002LoginTestCase.java:14)oggger - ***************Test case Started************
+11:23:56.608 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml"
+11:23:56.894 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
   C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml
 
-11:04:08.942 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml"
-11:04:09.245 [main] INFO  testCases.TC001.homePageTestMethod(TC001.java:28)oggger - Test Case Started
-11:04:09.488 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\Sunny\IdeaProjects\JavaFramework\master.xml
-
-11:04:10.416 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:44)oggger - Registration Page testcase started
-11:04:12.345 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:56)oggger - Matching title of the page
-11:04:12.385 [main] INFO  testCases.TC001.redirectionToEditAccount(TC001.java:68)oggger - Redirecting to EditAccount Page
-11:04:12.708 [main] INFO  testCases.TC001.editAccounts(TC001.java:82)oggger - Editing the information
-11:04:13.026 [main] INFO  testCases.TC001.homePageTestMethod(TC001.java:28)oggger - Test Case Started
-11:04:13.934 [main] INFO  testCases.TC001.RedirectionToEditAccount(TC001.java:102)oggger - Checking Edit operation was success or not
-11:04:14.241 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:44)oggger - Registration Page testcase started
-11:04:15.860 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:56)oggger - Matching title of the page
-11:04:15.894 [main] INFO  testCases.TC001.redirectionToEditAccount(TC001.java:68)oggger - Redirecting to EditAccount Page
-11:04:16.269 [main] INFO  testCases.TC001.editAccounts(TC001.java:82)oggger - Editing the information
-11:04:17.255 [main] INFO  testCases.TC001.RedirectionToEditAccount(TC001.java:102)oggger - Checking Edit operation was success or not
+11:23:59.967 [main] INFO  testCases.TC001.homePageTestMethod(TC001.java:23)oggger - Test Case Started
+11:24:00.778 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:39)oggger - Registration Page testcase started
+11:24:02.302 [main] INFO  testCases.TC001.registerPageTestMethod(TC001.java:51)oggger - Matching title of the page
+11:24:04.717 [main] INFO  testCases.TC002LoginTestCase.LoginPage(TC002LoginTestCase.java:14)oggger - ***************Test case Started************
+11:24:06.863 [main] INFO  testCases.TC002LoginTestCase.LoginPage(TC002LoginTestCase.java:36)oggger - ************TestCase Ends*********************
