@@ -79,7 +79,7 @@ public class TC001 extends TestBase {
             MainEditAccountBase mb = new MainEditAccountBase(driver);
             mb.setEditfname("Harry");
             mb.setEditlname("bose");
-            mb.setEditemail("papa@google.com"); // keep changing this email to get proper results
+            mb.setEditemail("mummy@google.com"); // keep changing this email to get proper results
             mb.setEdittelephone("123456789");
             mb.setEditContinue();
 
@@ -101,7 +101,7 @@ public class TC001 extends TestBase {
             eab.setEditAccount();
 
             String Actual_email = driver.findElement(By.xpath("//input[@id='input-email']")).getAttribute("value");
-              if(Actual_email.equals( "gungun@google.com"))
+              if(Actual_email.equals( "mummy@google.com"))
               {
                   Assert.assertTrue(true);
               }
