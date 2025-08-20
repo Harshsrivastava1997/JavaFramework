@@ -79,7 +79,7 @@ public class TC001 extends TestBase {
             MainEditAccountBase mb = new MainEditAccountBase(driver);
             mb.setEditfname("Harry");
             mb.setEditlname("bose");
-            mb.setEditemail("gungun@google.com"); // keep changing this email to get proper results
+            mb.setEditemail("papa@google.com"); // keep changing this email to get proper results
             mb.setEdittelephone("123456789");
             mb.setEditContinue();
 
